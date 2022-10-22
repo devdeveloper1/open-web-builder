@@ -1,0 +1,16 @@
+{
+  "name": "open-web-builder",
+  "version": "1.0.0",
+  "description": "criador de sites open source",
+  "main": "main.js",
+  "author": "devdeveloper1",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  },
+
+  "scripts": {
+      "start": "electron ."
+  }
+
+}
